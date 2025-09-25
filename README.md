@@ -9,7 +9,7 @@
 * i. Classes
 * ii. Arrow Functions
 * iii. Variables (`let` and `const`)
-* iv. Array Methods (`.map()`, `.filter()`, etc.)
+* iv. Array Methods (`.splice()`, `.push()`, etc.)
 * v. Destructuring
 * vi. Modules (`import` and `export`)
 * vii. Ternary Operator
